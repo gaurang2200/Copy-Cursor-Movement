@@ -1,5 +1,6 @@
 # Copy-Cursor-Movement
 **Version 1.0.0**
+
 This program is made in python with a GUI library tkinter and automation library PyAutoGUI.
 
 It allows you to record the cursor like its actions like left clicking, right clicking, movement, etc. and then to play that movement exactly as it is with a little slow motion.
